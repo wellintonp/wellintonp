@@ -1,19 +1,37 @@
-### Hi there 👋
+### Bonjour! Vous pouvez en savoir un peu plus sur moi ici 👋
 
-<!--
-**wellintonp/wellintonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellintonp&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellintonp&layout=compact)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+À propos de moi:
+
+- 🔭 Je travaille actuellement sur un projet de développement web personnel en utilisant Flutter et Node.js.
+- 🌱 J'apprends le développement d'applications mobiles en utilisant Flutter et Dart.
+- 👯 Je cherche à collaborer sur des projets open source liés à l'éducation.
+- 🤔 J'ai besoin d'aide pour mettre en place des tests automatisés dans mes projets.
+- 💬 Demandez-moi à propos de mes expériences dans les hackathons de programmation et comment ils ont contribué à développer mes compétences en travail d'équipe.
+- ⚡ Fait amusant: J'ai déjà eu la chance de programmer un robot autonome pour participer à une compétition internationale de robotique!
+
+About me in english:
+
+- 🔭 I'm currently working on a personal web development project using React and Node.js.
+- 🌱 I'm learning about mobile app development using Flutter and Dart.
+- 👯 I'm looking to collaborate on open-source projects related to education.
+- 🤔 I need help with implementing automated tests in my projects.
+- 💬 Ask me about my experiences in programming hackathons and how they helped develop my teamwork skills.
+- ⚡ Fun fact: I once had the chance to program an autonomous robot to participate in an international robotics competition!
+
+Sobre mim em português:
+
+- 🔭 Atualmente estou trabalhando em um projeto pessoal de desenvolvimento web usando React e Node.js.
+- 🌱 Estou aprendendo sobre desenvolvimento de aplicativos móveis usando Flutter e Dart.
+- 👯 Estou procurando colaborar em projetos de código aberto relacionados à área de educação.
+- 🤔 Preciso de ajuda com a implementação de testes automatizados em meus projetos.
+- 💬 Me pergunte sobre minhas experiências em hackathons de programação e como elas ajudaram a desenvolver minhas habilidades de trabalho em equipe.
+- ⚡ Fato divertido: Eu já tive a chance de programar um robô autônomo para participar de uma competição internacional de robótica!
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
