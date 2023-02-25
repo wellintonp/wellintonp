@@ -4,6 +4,24 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellintonp&layout=compact)
 
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.openai.com/labs/images/An%20oil%20painting%20portrait%20of%20a%20capybara%20wearing%20medieval%20royal%20robes%20and%20an%20ornate%20crown%20on%20a%20dark%20background.webp?v=1">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
+</br>
+
+
 À propos de moi:
 
 - 🔭 Je travaille actuellement sur un projet de développement web personnel en utilisant Flutter et Node.js.
@@ -32,19 +50,3 @@ Sobre mim em português:
 - ⚡ Fato divertido: Eu já tive a chance de programar um robô autônomo para participar de uma competição internacional de robótica!
 
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.openai.com/labs/images/An%20oil%20painting%20portrait%20of%20a%20capybara%20wearing%20medieval%20royal%20robes%20and%20an%20ornate%20crown%20on%20a%20dark%20background.webp?v=1">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-</div>
