@@ -1,7 +1,7 @@
 ### Bonjour! Vous pouvez en savoir un peu plus sur moi ici 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellintonp&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellintonp&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wellintonp&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wellintonp&layout=compact)
 
 
 À propos de moi:
