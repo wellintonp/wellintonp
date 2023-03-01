@@ -1,7 +1,7 @@
 ### Bonjour! Vous pouvez en savoir un peu plus sur moi ici 👋
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wellintonp&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wellintonp&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wellintonp&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=33)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wellintonp&theme=react&line_height=40&hide=css)
 
 
 À propos de moi:
